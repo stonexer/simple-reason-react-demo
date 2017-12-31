@@ -1,1 +1,9 @@
 node_modules
+*.lock
+.merlin
+
+# project
+
+lib
+public/bundle.js
+
