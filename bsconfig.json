@@ -1,0 +1,11 @@
+{
+  "name": "simple-reason-react-demo",
+  "reason": {
+    "react-jsx": 2
+  },
+  "refmt": 3,
+  "bs-dependencies": [
+    "reason-react"
+  ],
+  "sources": "src"
+}
